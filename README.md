@@ -29,7 +29,7 @@
     
   </a>
   <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
+    <img src="https://img.shields.io/github/stars/UxairKhan717/QueenAmdi?style=social">
   </a>
 </p>
 
